@@ -1,1 +1,9 @@
 
+name: flask-hello-world
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - Flask==3.1.0
