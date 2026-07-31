@@ -1,1 +1,3 @@
-command: ["python", "src/app.py"] 
+command:
+  - python
+  - src/app.py
