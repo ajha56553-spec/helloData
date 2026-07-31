@@ -1,1 +1,1 @@
-command: ["python", "helloMain.py"]
+command: ["python", "src/helloMain.py"]
